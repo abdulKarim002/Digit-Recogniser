@@ -23,3 +23,8 @@ EPOCHS = 10
 BATCH_SIZE = 1000
 loss: 0.0764 - acc: 0.9775 - val_loss: 0.0598 - val_acc: 0.9802
 
+Kaggel link
+https://www.kaggle.com/abdul002/digit-recogniser-using-keras
+
+Public Score
+0.98228
